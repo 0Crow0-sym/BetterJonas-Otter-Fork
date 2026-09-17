@@ -1,0 +1,15 @@
+{
+  "type": "code",
+  "modid": "betterjonasdevicesfixedagainotterfork",
+  "name": "Better Jonas Devices",
+  "authors": [ "Gradient", "MistAway", "Ket" ],
+  "contributors": [ "Gradient", "justOmi", "aRTyficial" ],
+  "side": "Universal",
+  "requiredOnServer": true,
+  "requiredOnClient": true,
+  "description": "Tweaks to make Jonas devices more useful",
+  "version": "2.1.6",
+  "dependencies": {
+    "game": "1.22.1"
+  }
+}
